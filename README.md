@@ -1,3 +1,5 @@
+# THIS PROJECT IS UNDER DEVELOPMENT (BUG EXPECTED)
+
 # Allstack LKS Project
 
 This project is a full-stack web application that includes a frontend built with Next.js and a backend powered by Laravel.
